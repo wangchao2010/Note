@@ -2,3 +2,5 @@ sudo spctl --master-disable //打开任意来源软件权限
 pod install --verbose --no-repo-update //快速更新操作
 
 pod repo update  --verbose//更新仓库后执行sudo gem install cocoapods 最后执行 rm ~/Library/Caches/CocoaPods/search_index.json //删除搜索历史记录
+pod install --verbose --no-repo-update //快速更新操作单点
+pod install --verbose --no-repo-update //快速更新操作w

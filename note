@@ -1,2 +1,2 @@
 sudo spctl --master-disable //打开任意来源软件权限
-pod install --verbose --no-repo-update //快速更新操作
+pod install --verbose --no-repo-update //快速更新操作单点

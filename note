@@ -5,3 +5,6 @@ sudo gem install cocoapods  //最后执行
 rm ~/Library/Caches/CocoaPods/search_index.json  //删除搜索历史记录
 
 ps auwx | grep macports //查看端口
+
+adb devices
+adb install -r /Users/mac/Downloads/newpen-debug\(1\).apk 

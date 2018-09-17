@@ -8,3 +8,11 @@ ps auwx | grep macports //查看端口
 
 adb devices
 adb install -r /Users/mac/Downloads/newpen-debug\(1\).apk 
+
+*.xcuserstate
+project.xcworkspace
+xcuserdata
+UserInterfaceState.xcuserstate
+project.xcworkspace/
+xcuserdata/
+UserInterface.xcuserstate
